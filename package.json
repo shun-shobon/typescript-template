@@ -1,0 +1,11 @@
+{
+  "name": "typescript-template",
+  "version": "0.0.0",
+  "description": "TypeScriptのプロジェクトテンプレート",
+  "homepage": "https://github.com/shun-shobon/typescript-template#readme",
+  "bugs": "https://github.com/shun-shobon/typescript-template/issues",
+  "license": "MIT",
+  "author": "Shuntaro Nishizawa <me@shun.technology> (https://github.com/shun-shobon)",
+  "repository": "https://github.com/shun-shobon/typescript-template.git",
+  "private": true
+}
